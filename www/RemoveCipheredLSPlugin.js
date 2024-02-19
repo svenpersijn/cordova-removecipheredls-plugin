@@ -18,4 +18,4 @@ function getIsDatabaseDeleted() {
 	return isDatabaseDeleted;
 };
 
-module.exports = new getIsDatabaseDeleted();
+module.exports = new RemoveCipheredLSPlugin();
