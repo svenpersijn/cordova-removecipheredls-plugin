@@ -1,0 +1,19 @@
+{
+  "name": "removecipheredlsplugin",
+  "version": "1.0.0",
+  "description": "Plugin to remove ciphered local storage database and create an unciphered local database",
+  "main": "RemoveCipheredLSPlugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/centraalregister/OutSystems-Cordova.git"
+  },
+  "author": "Sven Persijn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/centraalregister/OutSystems-Cordova/issues"
+  },
+  "homepage": "https://github.com/centraalregister/OutSystems-Cordova#readme"
+}
