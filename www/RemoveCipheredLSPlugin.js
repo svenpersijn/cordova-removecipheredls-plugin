@@ -17,3 +17,5 @@ window.sqlitePlugin.openDatabase = function(options, successCallback, errorCallb
 function GetisDatabaseDeleted() {
 	return isDatabaseDeleted;
 };
+
+module.exports = new GetisDatabaseDeleted();
